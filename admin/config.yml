@@ -2,9 +2,7 @@ backend:
   name: git-gateway
   repo: kakka0903/jekyll-netlify-cms
   branch: master # Branch to update (master by default)
-  identity_url: "https://example.com/.netlify/identity"
-  gateway_url: "https://example.com/.netlify/git"
-  site_domain: "https://kakka0903.github.io"
+  base_url: "https://serene-douhua-9453c6.netlify.app/.netlify/identity"
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
 
