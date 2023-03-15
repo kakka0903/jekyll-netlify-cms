@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   branch: master # Branch to update (master by default)
   site_domain: "kakka0903.github.io"
 
