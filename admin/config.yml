@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: kakka0903/jekyll-netlify-cms
   branch: master # Branch to update (master by default)
   site_domain: "https://serene-douhua-9453c6.netlify.app"
