@@ -1,7 +1,7 @@
 backend:
   name: git-gateway
-  repo: kakka0903/search-rug.github.io
-  branch: main # Branch to update (master by default)
+  repo: kakka0903/jekyll-netlify-cms
+  branch: cms # Branch to update (master by default)
   site_domain: "https://serene-douhua-9453c6.netlify.app"
 
 media_folder: "img/uploads" # Folder where user uploaded files should go
