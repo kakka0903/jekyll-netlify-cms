@@ -18,8 +18,6 @@ email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the basic Jekyll starter site, with Netlify CMS integrated and using
   Netlify Identity for authentication.
-baseurl: "/jekyll-netlify-cms"
-url: "http://kakka0903.github.io"
 
 # Build settings
 theme: minima
